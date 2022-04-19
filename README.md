@@ -7,11 +7,9 @@
 
 - 🔭 Looking for opportuinities as a **web3 frontend developer**
 
-- 🌱 I’m currently learning **Three.js, Solidity, Rust & Anchor**
+- 🌱 Currently learning **Three.js, Solidity, Rust & Anchor**
 
 - 💬 Interested in **creative coding, generative art & web3 technologies**
-
-- 📫 How to reach me **https://twitter.com/wasimthoufiq**
 
 
 <h3 align="left">Connect with me:</h3>
